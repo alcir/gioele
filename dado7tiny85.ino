@@ -5,8 +5,9 @@ const byte PIN_LATCH = 2;
 const byte PIN_CLOCK = 3;
 // pin connected to DS of 74HC595
 const byte PIN_DATA = 1;
-//
+// pin su cui si trova il pulsante per far ruotare i numeri
 const int buttonPin = 4;
+
 const int pontePin = 0;
 
 int lus = 0;
